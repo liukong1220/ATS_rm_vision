@@ -1,0 +1,57 @@
+[0.010s] Invoking command in '/home/ats/rv2/build/rm_serial_driver': AMENT_PREFIX_PATH=/home/ats/rv2/install/buff_interfaces:/home/ats/rv2/install/auto_aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ats/rv2/install/buff_interfaces:/home/ats/rv2/install/auto_aim_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/ats/rv2/install/buff_interfaces/lib:/home/ats/rv2/install/auto_aim_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ats/rv2/install/buff_interfaces/local/lib/python3.10/dist-packages:/home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/ats/rv2/src/rm_serial_driver -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ats/rv2/install/rm_serial_driver
+[0.047s] -- The C compiler identification is GNU 11.4.0
+[0.083s] -- The CXX compiler identification is GNU 11.4.0
+[0.087s] -- Detecting C compiler ABI info
+[0.131s] -- Detecting C compiler ABI info - done
+[0.137s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.138s] -- Detecting C compile features
+[0.138s] -- Detecting C compile features - done
+[0.140s] -- Detecting CXX compiler ABI info
+[0.189s] -- Detecting CXX compiler ABI info - done
+[0.196s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.197s] -- Detecting CXX compile features
+[0.197s] -- Detecting CXX compile features - done
+[0.198s] -- Found ament_cmake_auto: 1.3.10 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+[0.297s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.336s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.423s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.427s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.434s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.443s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.456s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.490s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.492s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.565s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.594s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.639s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.648s] -- Looking for pthread.h
+[0.733s] -- Looking for pthread.h - found
+[0.734s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.820s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.821s] -- Found Threads: TRUE  
+[0.952s] [31mCMake Error at /opt/ros/humble/share/io_context/cmake/io_context-extras.cmake:17 (find_package):
+[0.952s]   By not providing "Findasio_cmake_module.cmake" in CMAKE_MODULE_PATH this
+[0.952s]   project has asked CMake to find a package configuration file provided by
+[0.952s]   "asio_cmake_module", but CMake did not find one.
+[0.952s] 
+[0.953s]   Could not find a package configuration file provided by "asio_cmake_module"
+[0.953s]   with any of the following names:
+[0.953s] 
+[0.953s]     asio_cmake_moduleConfig.cmake
+[0.953s]     asio_cmake_module-config.cmake
+[0.953s] 
+[0.953s]   Add the installation prefix of "asio_cmake_module" to CMAKE_PREFIX_PATH or
+[0.953s]   set "asio_cmake_module_DIR" to a directory containing one of the above
+[0.953s]   files.  If "asio_cmake_module" provides a separate development package or
+[0.953s]   SDK, be sure it has been installed.
+[0.953s] Call Stack (most recent call first):
+[0.953s]   /opt/ros/humble/share/io_context/cmake/io_contextConfig.cmake:41 (include)
+[0.953s]   /opt/ros/humble/share/serial_driver/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package)
+[0.954s]   /opt/ros/humble/share/serial_driver/cmake/serial_driverConfig.cmake:41 (include)
+[0.954s]   /opt/ros/humble/share/ament_cmake_auto/cmake/ament_auto_find_build_dependencies.cmake:67 (find_package)
+[0.954s]   CMakeLists.txt:20 (ament_auto_find_build_dependencies)
+[0.954s] 
+[0.954s] [0m
+[0.954s] -- Configuring incomplete, errors occurred!
+[0.954s] See also "/home/ats/rv2/build/rm_serial_driver/CMakeFiles/CMakeOutput.log".
+[0.963s] Invoked command in '/home/ats/rv2/build/rm_serial_driver' returned '1': AMENT_PREFIX_PATH=/home/ats/rv2/install/buff_interfaces:/home/ats/rv2/install/auto_aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ats/rv2/install/buff_interfaces:/home/ats/rv2/install/auto_aim_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/ats/rv2/install/buff_interfaces/lib:/home/ats/rv2/install/auto_aim_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ats/rv2/install/buff_interfaces/local/lib/python3.10/dist-packages:/home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/ats/rv2/src/rm_serial_driver -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ats/rv2/install/rm_serial_driver

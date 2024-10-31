@@ -1,0 +1,36 @@
+[35m[1mConsolidate compiler generated dependencies of target buff_detector_node[0m
+[35m[1mConsolidate compiler generated dependencies of target buff_detector[0m
+[ 33%] Built target buff_detector_node
+[100%] Built target buff_detector
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/ats/rv2/install/buff_detector/lib/buff_detector/buff_detector_node
+-- Symlinking: /home/ats/rv2/install/buff_detector/include/buff_detector/blade.hpp
+-- Symlinking: /home/ats/rv2/install/buff_detector/include/buff_detector/detector.hpp
+-- Symlinking: /home/ats/rv2/install/buff_detector/include/buff_detector/detector_node.hpp
+-- Symlinking: /home/ats/rv2/install/buff_detector/include/buff_detector/pnp_solver.hpp
+-- Symlinking: /home/ats/rv2/install/buff_detector/share/buff_detector/environment/library_path.sh
+-- Symlinking: /home/ats/rv2/install/buff_detector/share/buff_detector/environment/library_path.dsv
+-- Symlinking: /home/ats/rv2/install/buff_detector/lib/libbuff_detector.so
+-- Symlinking: /home/ats/rv2/install/buff_detector/share/buff_detector/models/buff_quantized.bin
+-- Symlinking: /home/ats/rv2/install/buff_detector/share/buff_detector/models/buff_quantized.xml
+-- Symlinking: /home/ats/rv2/install/buff_detector/share/buff_detector/launch/buff_detector.launch.py
+-- Symlinking: /home/ats/rv2/install/buff_detector/share/ament_index/resource_index/package_run_dependencies/buff_detector
+-- Symlinking: /home/ats/rv2/install/buff_detector/share/ament_index/resource_index/parent_prefix_path/buff_detector
+-- Symlinking: /home/ats/rv2/install/buff_detector/share/buff_detector/environment/ament_prefix_path.sh
+-- Symlinking: /home/ats/rv2/install/buff_detector/share/buff_detector/environment/ament_prefix_path.dsv
+-- Symlinking: /home/ats/rv2/install/buff_detector/share/buff_detector/environment/path.sh
+-- Symlinking: /home/ats/rv2/install/buff_detector/share/buff_detector/environment/path.dsv
+-- Symlinking: /home/ats/rv2/install/buff_detector/share/buff_detector/local_setup.bash
+-- Symlinking: /home/ats/rv2/install/buff_detector/share/buff_detector/local_setup.sh
+-- Symlinking: /home/ats/rv2/install/buff_detector/share/buff_detector/local_setup.zsh
+-- Symlinking: /home/ats/rv2/install/buff_detector/share/buff_detector/local_setup.dsv
+-- Symlinking: /home/ats/rv2/install/buff_detector/share/buff_detector/package.dsv
+-- Symlinking: /home/ats/rv2/install/buff_detector/share/ament_index/resource_index/packages/buff_detector
+-- Symlinking: /home/ats/rv2/install/buff_detector/share/ament_index/resource_index/rclcpp_components/buff_detector
+-- Symlinking: /home/ats/rv2/install/buff_detector/share/buff_detector/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Symlinking: /home/ats/rv2/install/buff_detector/share/buff_detector/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Symlinking: /home/ats/rv2/install/buff_detector/share/buff_detector/cmake/ament_cmake_export_libraries-extras.cmake
+-- Symlinking: /home/ats/rv2/install/buff_detector/share/buff_detector/cmake/buff_detectorConfig.cmake
+-- Symlinking: /home/ats/rv2/install/buff_detector/share/buff_detector/cmake/buff_detectorConfig-version.cmake
+-- Symlinking: /home/ats/rv2/install/buff_detector/share/buff_detector/package.xml

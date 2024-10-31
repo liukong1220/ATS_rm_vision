@@ -1,0 +1,35 @@
+[0.015s] Invoking command in '/home/ats/rv2/build/buff_tracker': AMENT_PREFIX_PATH=/home/ats/rv2/install/buff_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ats/rv2/install/buff_interfaces:/home/ats/ws_livox/install/livox_ros_driver2:/opt/ros/humble LD_LIBRARY_PATH=/home/ats/rv2/install/buff_interfaces/lib:/home/ats/ws_livox/install/livox_ros_driver2/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/opt/openvdb_vendor/lib:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu:/opt/MVS/lib/64:/opt/MVS/lib/32:/opt/MVS/lib/64:/opt/MVS/lib/32 PYTHONPATH=/home/ats/rv2/install/buff_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/ats/rv2/build/buff_tracker -- -j32 -l32
+[0.105s] [ 28%] Built target buff_tracker_node
+[0.118s] [100%] Built target buff_tracker
+[0.157s] Invoked command in '/home/ats/rv2/build/buff_tracker' returned '0': AMENT_PREFIX_PATH=/home/ats/rv2/install/buff_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ats/rv2/install/buff_interfaces:/home/ats/ws_livox/install/livox_ros_driver2:/opt/ros/humble LD_LIBRARY_PATH=/home/ats/rv2/install/buff_interfaces/lib:/home/ats/ws_livox/install/livox_ros_driver2/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/opt/openvdb_vendor/lib:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu:/opt/MVS/lib/64:/opt/MVS/lib/32:/opt/MVS/lib/64:/opt/MVS/lib/32 PYTHONPATH=/home/ats/rv2/install/buff_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/ats/rv2/build/buff_tracker -- -j32 -l32
+[0.223s] Invoking command in '/home/ats/rv2/build/buff_tracker': AMENT_PREFIX_PATH=/home/ats/rv2/install/buff_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ats/rv2/install/buff_interfaces:/home/ats/ws_livox/install/livox_ros_driver2:/opt/ros/humble LD_LIBRARY_PATH=/home/ats/rv2/install/buff_interfaces/lib:/home/ats/ws_livox/install/livox_ros_driver2/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/opt/openvdb_vendor/lib:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu:/opt/MVS/lib/64:/opt/MVS/lib/32:/opt/MVS/lib/64:/opt/MVS/lib/32 PYTHONPATH=/home/ats/rv2/install/buff_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/ats/rv2/build/buff_tracker
+[0.236s] -- Install configuration: ""
+[0.236s] -- Execute custom install script
+[0.238s] -- Up-to-date symlink: /home/ats/rv2/install/buff_tracker/lib/buff_tracker/buff_tracker_node
+[0.238s] -- Up-to-date symlink: /home/ats/rv2/install/buff_tracker/include/buff_tracker/extended_kalman_filter.hpp
+[0.239s] -- Up-to-date symlink: /home/ats/rv2/install/buff_tracker/include/buff_tracker/gauss_newton_solver.hpp
+[0.239s] -- Up-to-date symlink: /home/ats/rv2/install/buff_tracker/include/buff_tracker/tracker.hpp
+[0.240s] -- Up-to-date symlink: /home/ats/rv2/install/buff_tracker/include/buff_tracker/tracker_node.hpp
+[0.240s] -- Up-to-date symlink: /home/ats/rv2/install/buff_tracker/share/buff_tracker/environment/library_path.sh
+[0.241s] -- Up-to-date symlink: /home/ats/rv2/install/buff_tracker/share/buff_tracker/environment/library_path.dsv
+[0.241s] -- Up-to-date symlink: /home/ats/rv2/install/buff_tracker/lib/libbuff_tracker.so
+[0.242s] -- Up-to-date symlink: /home/ats/rv2/install/buff_tracker/share/ament_index/resource_index/package_run_dependencies/buff_tracker
+[0.243s] -- Up-to-date symlink: /home/ats/rv2/install/buff_tracker/share/ament_index/resource_index/parent_prefix_path/buff_tracker
+[0.243s] -- Up-to-date symlink: /home/ats/rv2/install/buff_tracker/share/buff_tracker/environment/ament_prefix_path.sh
+[0.244s] -- Up-to-date symlink: /home/ats/rv2/install/buff_tracker/share/buff_tracker/environment/ament_prefix_path.dsv
+[0.244s] -- Up-to-date symlink: /home/ats/rv2/install/buff_tracker/share/buff_tracker/environment/path.sh
+[0.244s] -- Up-to-date symlink: /home/ats/rv2/install/buff_tracker/share/buff_tracker/environment/path.dsv
+[0.245s] -- Up-to-date symlink: /home/ats/rv2/install/buff_tracker/share/buff_tracker/local_setup.bash
+[0.245s] -- Up-to-date symlink: /home/ats/rv2/install/buff_tracker/share/buff_tracker/local_setup.sh
+[0.245s] -- Up-to-date symlink: /home/ats/rv2/install/buff_tracker/share/buff_tracker/local_setup.zsh
+[0.245s] -- Up-to-date symlink: /home/ats/rv2/install/buff_tracker/share/buff_tracker/local_setup.dsv
+[0.245s] -- Symlinking: /home/ats/rv2/install/buff_tracker/share/buff_tracker/package.dsv
+[0.261s] -- Up-to-date symlink: /home/ats/rv2/install/buff_tracker/share/ament_index/resource_index/packages/buff_tracker
+[0.261s] -- Up-to-date symlink: /home/ats/rv2/install/buff_tracker/share/ament_index/resource_index/rclcpp_components/buff_tracker
+[0.261s] -- Up-to-date symlink: /home/ats/rv2/install/buff_tracker/share/buff_tracker/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.262s] -- Up-to-date symlink: /home/ats/rv2/install/buff_tracker/share/buff_tracker/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.262s] -- Up-to-date symlink: /home/ats/rv2/install/buff_tracker/share/buff_tracker/cmake/ament_cmake_export_libraries-extras.cmake
+[0.262s] -- Up-to-date symlink: /home/ats/rv2/install/buff_tracker/share/buff_tracker/cmake/buff_trackerConfig.cmake
+[0.262s] -- Up-to-date symlink: /home/ats/rv2/install/buff_tracker/share/buff_tracker/cmake/buff_trackerConfig-version.cmake
+[0.263s] -- Up-to-date symlink: /home/ats/rv2/install/buff_tracker/share/buff_tracker/package.xml
+[0.267s] Invoked command in '/home/ats/rv2/build/buff_tracker' returned '0': AMENT_PREFIX_PATH=/home/ats/rv2/install/buff_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ats/rv2/install/buff_interfaces:/home/ats/ws_livox/install/livox_ros_driver2:/opt/ros/humble LD_LIBRARY_PATH=/home/ats/rv2/install/buff_interfaces/lib:/home/ats/ws_livox/install/livox_ros_driver2/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/opt/openvdb_vendor/lib:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu:/opt/MVS/lib/64:/opt/MVS/lib/32:/opt/MVS/lib/64:/opt/MVS/lib/32 PYTHONPATH=/home/ats/rv2/install/buff_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/ats/rv2/build/buff_tracker

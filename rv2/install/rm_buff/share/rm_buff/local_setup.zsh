@@ -1,0 +1,1 @@
+/home/ats/rv2/build/rm_buff/ament_cmake_environment_hooks/local_setup.zsh

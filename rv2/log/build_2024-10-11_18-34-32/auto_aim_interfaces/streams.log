@@ -1,0 +1,307 @@
+[0.014s] Invoking command in '/home/ats/rv2/build/auto_aim_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ats/rv2/build/auto_aim_interfaces -- -j32 -l32
+[0.071s] [  1%] Built target auto_aim_interfaces__cpp
+[0.074s] [ 12%] Built target auto_aim_interfaces__rosidl_generator_c
+[0.077s] [ 12%] Built target ament_cmake_python_symlink_auto_aim_interfaces
+[0.109s] [ 13%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/auto_aim_interfaces/msg/detail/armor__type_support.cpp.o[0m
+[0.111s] [ 14%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/auto_aim_interfaces/msg/armor__type_support.cpp.o[0m
+[0.113s] [ 15%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/auto_aim_interfaces/msg/detail/target__type_support.cpp.o[0m
+[0.116s] [ 16%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/auto_aim_interfaces/msg/detail/armors__type_support.cpp.o[0m
+[0.116s] [ 17%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/auto_aim_interfaces/msg/target__type_support.cpp.o[0m
+[0.121s] [ 18%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/auto_aim_interfaces/msg/armors__type_support.cpp.o[0m
+[0.122s] [ 20%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/auto_aim_interfaces/msg/debug_light__type_support.cpp.o[0m
+[0.125s] [ 21%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/auto_aim_interfaces/msg/detail/debug_lights__type_support.cpp.o[0m
+[0.126s] [ 22%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/auto_aim_interfaces/msg/time_info__type_support.cpp.o[0m
+[0.129s] [ 28%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/auto_aim_interfaces/msg/detail/debug_armors__type_support.cpp.o[0m
+[0.129s] [ 29%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/auto_aim_interfaces/msg/detail/dds_fastrtps/debug_light__type_support.cpp.o[0m
+[0.134s] [ 35%] Built target auto_aim_interfaces__rosidl_typesupport_c
+[0.136s] [ 48%] Built target auto_aim_interfaces__rosidl_typesupport_introspection_c
+[0.140s] [ 48%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/auto_aim_interfaces/msg/detail/dds_fastrtps/target__type_support.cpp.o[0m
+[0.141s] [ 49%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/auto_aim_interfaces/msg/detail/time_info__type_support.cpp.o[0m
+[0.141s] [ 50%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/auto_aim_interfaces/msg/detail/dds_fastrtps/armors__type_support.cpp.o[0m
+[0.142s] [ 51%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/auto_aim_interfaces/msg/debug_armors__type_support.cpp.o[0m
+[0.145s] [ 52%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/auto_aim_interfaces/msg/detail/dds_fastrtps/debug_armor__type_support.cpp.o[0m
+[0.145s] [ 53%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/auto_aim_interfaces/msg/tracker_info__type_support.cpp.o[0m
+[0.153s] [ 54%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/auto_aim_interfaces/msg/detail/debug_light__type_support_c.cpp.o[0m
+[0.153s] [ 55%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/auto_aim_interfaces/msg/detail/debug_light__type_support.cpp.o[0m
+[0.153s] [ 56%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/auto_aim_interfaces/msg/detail/debug_lights__type_support_c.cpp.o[0m
+[0.154s] [ 57%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/auto_aim_interfaces/msg/debug_armor__type_support.cpp.o[0m
+[0.154s] [ 58%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/auto_aim_interfaces/msg/detail/armors__type_support_c.cpp.o[0m
+[0.156s] [ 61%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/auto_aim_interfaces/msg/detail/dds_fastrtps/debug_lights__type_support.cpp.o[0m
+[0.156s] [ 60%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/auto_aim_interfaces/msg/detail/target__type_support_c.cpp.o[0m
+[0.163s] [ 62%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/auto_aim_interfaces/msg/detail/tracker_info__type_support.cpp.o[0m
+[0.163s] [ 63%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/auto_aim_interfaces/msg/detail/dds_fastrtps/debug_armors__type_support.cpp.o[0m
+[0.163s] [ 64%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/auto_aim_interfaces/msg/detail/debug_armor__type_support_c.cpp.o[0m
+[0.169s] [ 65%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/auto_aim_interfaces/msg/detail/debug_armor__type_support.cpp.o[0m
+[0.169s] [ 66%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/auto_aim_interfaces/msg/debug_lights__type_support.cpp.o[0m
+[0.196s] [ 67%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/auto_aim_interfaces/msg/detail/dds_fastrtps/armor__type_support.cpp.o[0m
+[0.196s] [ 68%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/auto_aim_interfaces/msg/detail/armor__type_support_c.cpp.o[0m
+[0.788s] [ 69%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/auto_aim_interfaces/msg/detail/debug_armors__type_support_c.cpp.o[0m
+[0.821s] running egg_info
+[0.822s] writing auto_aim_interfaces.egg-info/PKG-INFO
+[0.823s] writing dependency_links to auto_aim_interfaces.egg-info/dependency_links.txt
+[0.823s] writing top-level names to auto_aim_interfaces.egg-info/top_level.txt
+[0.827s] reading manifest file 'auto_aim_interfaces.egg-info/SOURCES.txt'
+[0.829s] writing manifest file 'auto_aim_interfaces.egg-info/SOURCES.txt'
+[0.865s] [ 70%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/auto_aim_interfaces/msg/detail/dds_fastrtps/tracker_info__type_support.cpp.o[0m
+[0.881s] [ 71%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/auto_aim_interfaces/msg/detail/tracker_info__type_support_c.cpp.o[0m
+[0.891s] [ 71%] Built target ament_cmake_python_build_auto_aim_interfaces_egg
+[0.914s] [ 73%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/auto_aim_interfaces/msg/detail/dds_fastrtps/time_info__type_support.cpp.o[0m
+[0.914s] [ 73%] [32mBuilding CXX object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/auto_aim_interfaces/msg/detail/time_info__type_support_c.cpp.o[0m
+[1.163s] [ 74%] [32m[1mLinking CXX shared library libauto_aim_interfaces__rosidl_typesupport_cpp.so[0m
+[1.217s] [ 75%] Built target auto_aim_interfaces__rosidl_typesupport_cpp
+[1.374s] [ 76%] [32m[1mLinking CXX shared library libauto_aim_interfaces__rosidl_typesupport_fastrtps_cpp.so[0m
+[1.391s] [ 77%] [32m[1mLinking CXX shared library libauto_aim_interfaces__rosidl_typesupport_fastrtps_c.so[0m
+[1.405s] [ 78%] [32m[1mLinking CXX shared library libauto_aim_interfaces__rosidl_typesupport_introspection_cpp.so[0m
+[1.440s] [ 80%] Built target auto_aim_interfaces__rosidl_typesupport_fastrtps_cpp
+[1.463s] [ 81%] Built target auto_aim_interfaces__rosidl_typesupport_fastrtps_c
+[1.470s] [ 82%] Built target auto_aim_interfaces__rosidl_typesupport_introspection_cpp
+[1.491s] [ 82%] Built target auto_aim_interfaces
+[1.516s] [ 83%] Built target auto_aim_interfaces__py
+[1.549s] [ 84%] [32mBuilding C object CMakeFiles/auto_aim_interfaces__rosidl_generator_py.dir/rosidl_generator_py/auto_aim_interfaces/msg/_debug_light_s.c.o[0m
+[1.551s] [ 86%] [32mBuilding C object CMakeFiles/auto_aim_interfaces__rosidl_generator_py.dir/rosidl_generator_py/auto_aim_interfaces/msg/_armor_s.c.o[0m
+[1.551s] [ 86%] [32mBuilding C object CMakeFiles/auto_aim_interfaces__rosidl_generator_py.dir/rosidl_generator_py/auto_aim_interfaces/msg/_armors_s.c.o[0m
+[1.551s] [ 87%] [32mBuilding C object CMakeFiles/auto_aim_interfaces__rosidl_generator_py.dir/rosidl_generator_py/auto_aim_interfaces/msg/_target_s.c.o[0m
+[1.552s] [ 88%] [32mBuilding C object CMakeFiles/auto_aim_interfaces__rosidl_generator_py.dir/rosidl_generator_py/auto_aim_interfaces/msg/_debug_lights_s.c.o[0m
+[1.553s] [ 89%] [32mBuilding C object CMakeFiles/auto_aim_interfaces__rosidl_generator_py.dir/rosidl_generator_py/auto_aim_interfaces/msg/_debug_armor_s.c.o[0m
+[1.553s] [ 90%] [32mBuilding C object CMakeFiles/auto_aim_interfaces__rosidl_generator_py.dir/rosidl_generator_py/auto_aim_interfaces/msg/_debug_armors_s.c.o[0m
+[1.554s] [ 92%] [32mBuilding C object CMakeFiles/auto_aim_interfaces__rosidl_generator_py.dir/rosidl_generator_py/auto_aim_interfaces/msg/_time_info_s.c.o[0m
+[1.554s] [ 92%] [32mBuilding C object CMakeFiles/auto_aim_interfaces__rosidl_generator_py.dir/rosidl_generator_py/auto_aim_interfaces/msg/_tracker_info_s.c.o[0m
+[1.683s] [ 93%] [32m[1mLinking C shared library rosidl_generator_py/auto_aim_interfaces/libauto_aim_interfaces__rosidl_generator_py.so[0m
+[1.729s] [ 93%] Built target auto_aim_interfaces__rosidl_generator_py
+[1.755s] [ 94%] [32mBuilding C object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/auto_aim_interfaces/_auto_aim_interfaces_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[1.756s] [ 96%] [32mBuilding C object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/auto_aim_interfaces/_auto_aim_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[1.756s] [ 96%] [32mBuilding C object CMakeFiles/auto_aim_interfaces__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/auto_aim_interfaces/_auto_aim_interfaces_s.ep.rosidl_typesupport_c.c.o[0m
+[1.861s] [ 97%] [32m[1mLinking C shared library rosidl_generator_py/auto_aim_interfaces/auto_aim_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[1.872s] [ 98%] [32m[1mLinking C shared library rosidl_generator_py/auto_aim_interfaces/auto_aim_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[1.873s] [100%] [32m[1mLinking C shared library rosidl_generator_py/auto_aim_interfaces/auto_aim_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[1.906s] [100%] Built target auto_aim_interfaces__rosidl_typesupport_introspection_c__pyext
+[1.913s] [100%] Built target auto_aim_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[1.916s] [100%] Built target auto_aim_interfaces__rosidl_typesupport_c__pyext
+[1.927s] Invoked command in '/home/ats/rv2/build/auto_aim_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ats/rv2/build/auto_aim_interfaces -- -j32 -l32
+[2.148s] Invoking command in '/home/ats/rv2/build/auto_aim_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ats/rv2/build/auto_aim_interfaces
+[2.156s] -- Install configuration: ""
+[2.156s] -- Execute custom install script
+[2.157s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/ament_index/resource_index/rosidl_interfaces/auto_aim_interfaces
+[2.158s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/armor.h
+[2.158s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/armors.h
+[2.158s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/debug_armor.h
+[2.158s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/debug_armors.h
+[2.158s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/debug_light.h
+[2.158s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/debug_lights.h
+[2.159s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/armor__functions.h
+[2.159s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/armor__struct.h
+[2.159s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/armor__type_support.h
+[2.159s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/armors__functions.h
+[2.159s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/armors__struct.h
+[2.159s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/armors__type_support.h
+[2.160s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_armor__functions.h
+[2.160s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_armor__struct.h
+[2.160s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_armor__type_support.h
+[2.160s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_armors__functions.h
+[2.160s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_armors__struct.h
+[2.160s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_armors__type_support.h
+[2.161s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_light__functions.h
+[2.161s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_light__struct.h
+[2.161s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_light__type_support.h
+[2.161s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_lights__functions.h
+[2.161s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_lights__struct.h
+[2.161s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_lights__type_support.h
+[2.161s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/target__functions.h
+[2.161s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/target__struct.h
+[2.161s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/target__type_support.h
+[2.162s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/time_info__functions.h
+[2.162s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/time_info__struct.h
+[2.162s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/time_info__type_support.h
+[2.162s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/tracker_info__functions.h
+[2.162s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/tracker_info__struct.h
+[2.162s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/tracker_info__type_support.h
+[2.163s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/rosidl_generator_c__visibility_control.h
+[2.163s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/target.h
+[2.163s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/time_info.h
+[2.163s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/tracker_info.h
+[2.163s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/environment/library_path.sh
+[2.163s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/environment/library_path.dsv
+[2.164s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/armor__rosidl_typesupport_fastrtps_c.h
+[2.164s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/armors__rosidl_typesupport_fastrtps_c.h
+[2.164s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_armor__rosidl_typesupport_fastrtps_c.h
+[2.164s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_armors__rosidl_typesupport_fastrtps_c.h
+[2.164s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_light__rosidl_typesupport_fastrtps_c.h
+[2.165s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_lights__rosidl_typesupport_fastrtps_c.h
+[2.165s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/target__rosidl_typesupport_fastrtps_c.h
+[2.165s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/time_info__rosidl_typesupport_fastrtps_c.h
+[2.165s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/tracker_info__rosidl_typesupport_fastrtps_c.h
+[2.165s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[2.165s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/armor__rosidl_typesupport_introspection_c.h
+[2.166s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/armors__rosidl_typesupport_introspection_c.h
+[2.166s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_armor__rosidl_typesupport_introspection_c.h
+[2.166s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_armors__rosidl_typesupport_introspection_c.h
+[2.166s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_light__rosidl_typesupport_introspection_c.h
+[2.166s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_lights__rosidl_typesupport_introspection_c.h
+[2.166s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/target__rosidl_typesupport_introspection_c.h
+[2.166s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/time_info__rosidl_typesupport_introspection_c.h
+[2.167s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/tracker_info__rosidl_typesupport_introspection_c.h
+[2.167s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[2.167s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/armor.hpp
+[2.167s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/armors.hpp
+[2.167s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/debug_armor.hpp
+[2.167s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/debug_armors.hpp
+[2.168s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/debug_light.hpp
+[2.168s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/debug_lights.hpp
+[2.168s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/armor__builder.hpp
+[2.168s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/armor__struct.hpp
+[2.168s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/armor__traits.hpp
+[2.168s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/armors__builder.hpp
+[2.168s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/armors__struct.hpp
+[2.168s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/armors__traits.hpp
+[2.168s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_armor__builder.hpp
+[2.168s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_armor__struct.hpp
+[2.168s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_armor__traits.hpp
+[2.169s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_armors__builder.hpp
+[2.169s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_armors__struct.hpp
+[2.169s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_armors__traits.hpp
+[2.169s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_light__builder.hpp
+[2.169s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_light__struct.hpp
+[2.169s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_light__traits.hpp
+[2.169s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_lights__builder.hpp
+[2.169s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_lights__struct.hpp
+[2.169s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_lights__traits.hpp
+[2.169s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/target__builder.hpp
+[2.169s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/target__struct.hpp
+[2.169s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/target__traits.hpp
+[2.170s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/time_info__builder.hpp
+[2.170s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/time_info__struct.hpp
+[2.170s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/time_info__traits.hpp
+[2.170s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/tracker_info__builder.hpp
+[2.170s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/tracker_info__struct.hpp
+[2.170s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/tracker_info__traits.hpp
+[2.170s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/target.hpp
+[2.170s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/time_info.hpp
+[2.170s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/tracker_info.hpp
+[2.170s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/armor__rosidl_typesupport_fastrtps_cpp.hpp
+[2.170s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/armors__rosidl_typesupport_fastrtps_cpp.hpp
+[2.171s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_armor__rosidl_typesupport_fastrtps_cpp.hpp
+[2.171s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_armors__rosidl_typesupport_fastrtps_cpp.hpp
+[2.171s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_light__rosidl_typesupport_fastrtps_cpp.hpp
+[2.171s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_lights__rosidl_typesupport_fastrtps_cpp.hpp
+[2.171s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/target__rosidl_typesupport_fastrtps_cpp.hpp
+[2.171s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/time_info__rosidl_typesupport_fastrtps_cpp.hpp
+[2.171s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/tracker_info__rosidl_typesupport_fastrtps_cpp.hpp
+[2.171s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[2.171s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/armor__rosidl_typesupport_introspection_cpp.hpp
+[2.171s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/armors__rosidl_typesupport_introspection_cpp.hpp
+[2.172s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_armor__rosidl_typesupport_introspection_cpp.hpp
+[2.172s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_armors__rosidl_typesupport_introspection_cpp.hpp
+[2.172s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_light__rosidl_typesupport_introspection_cpp.hpp
+[2.172s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/debug_lights__rosidl_typesupport_introspection_cpp.hpp
+[2.172s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/target__rosidl_typesupport_introspection_cpp.hpp
+[2.172s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/time_info__rosidl_typesupport_introspection_cpp.hpp
+[2.172s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/include/auto_aim_interfaces/auto_aim_interfaces/msg/detail/tracker_info__rosidl_typesupport_introspection_cpp.hpp
+[2.172s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/environment/pythonpath.sh
+[2.172s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/environment/pythonpath.dsv
+[2.172s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces-2.0.0-py3.10.egg-info/PKG-INFO
+[2.172s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces-2.0.0-py3.10.egg-info/SOURCES.txt
+[2.172s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces-2.0.0-py3.10.egg-info/dependency_links.txt
+[2.172s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces-2.0.0-py3.10.egg-info/top_level.txt
+[2.173s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces/__init__.py
+[2.173s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces/_auto_aim_interfaces_s.ep.rosidl_typesupport_c.c
+[2.173s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces/_auto_aim_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+[2.173s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces/_auto_aim_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+[2.173s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces/auto_aim_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[2.173s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces/auto_aim_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[2.173s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces/auto_aim_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[2.174s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces/libauto_aim_interfaces__rosidl_generator_py.so
+[2.174s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces/msg/__init__.py
+[2.174s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces/msg/_armor.py
+[2.174s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces/msg/_armor_s.c
+[2.174s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces/msg/_armors.py
+[2.174s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces/msg/_armors_s.c
+[2.174s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces/msg/_debug_armor.py
+[2.174s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces/msg/_debug_armor_s.c
+[2.174s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces/msg/_debug_armors.py
+[2.174s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces/msg/_debug_armors_s.c
+[2.174s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces/msg/_debug_light.py
+[2.174s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces/msg/_debug_light_s.c
+[2.174s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces/msg/_debug_lights.py
+[2.174s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces/msg/_debug_lights_s.c
+[2.175s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces/msg/_target.py
+[2.175s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces/msg/_target_s.c
+[2.175s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces/msg/_time_info.py
+[2.175s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces/msg/_time_info_s.c
+[2.175s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces/msg/_tracker_info.py
+[2.175s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces/msg/_tracker_info_s.c
+[2.175s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces/auto_aim_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[2.175s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces/auto_aim_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[2.176s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces/auto_aim_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[2.176s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/msg/Armor.idl
+[2.176s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/msg/Armors.idl
+[2.176s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/msg/Target.idl
+[2.176s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/msg/DebugLight.idl
+[2.176s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/msg/DebugLights.idl
+[2.176s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/msg/DebugArmor.idl
+[2.176s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/msg/DebugArmors.idl
+[2.177s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/msg/TrackerInfo.idl
+[2.177s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/msg/TimeInfo.idl
+[2.177s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/msg/Armor.msg
+[2.177s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/msg/Armors.msg
+[2.177s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/msg/Target.msg
+[2.177s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/msg/DebugLight.msg
+[2.177s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/msg/DebugLights.msg
+[2.177s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/msg/DebugArmor.msg
+[2.177s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/msg/DebugArmors.msg
+[2.177s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/msg/TrackerInfo.msg
+[2.177s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/msg/TimeInfo.msg
+[2.178s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/ament_index/resource_index/package_run_dependencies/auto_aim_interfaces
+[2.178s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/ament_index/resource_index/parent_prefix_path/auto_aim_interfaces
+[2.178s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/environment/ament_prefix_path.sh
+[2.178s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/environment/ament_prefix_path.dsv
+[2.178s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/environment/path.sh
+[2.178s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/environment/path.dsv
+[2.178s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/local_setup.bash
+[2.178s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/local_setup.sh
+[2.178s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/local_setup.zsh
+[2.178s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/local_setup.dsv
+[2.178s] -- Symlinking: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/package.dsv
+[2.189s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/ament_index/resource_index/packages/auto_aim_interfaces
+[2.190s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/cmake/rosidl_cmake-extras.cmake
+[2.190s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[2.190s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.190s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[2.190s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[2.190s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[2.190s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[2.190s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/cmake/auto_aim_interfacesConfig.cmake
+[2.191s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/cmake/auto_aim_interfacesConfig-version.cmake
+[2.191s] -- Up-to-date symlink: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/package.xml
+[2.191s] -- Up-to-date: /home/ats/rv2/install/auto_aim_interfaces/lib/libauto_aim_interfaces__rosidl_generator_c.so
+[2.191s] -- Installing: /home/ats/rv2/install/auto_aim_interfaces/lib/libauto_aim_interfaces__rosidl_typesupport_fastrtps_c.so
+[2.191s] -- Set runtime path of "/home/ats/rv2/install/auto_aim_interfaces/lib/libauto_aim_interfaces__rosidl_typesupport_fastrtps_c.so" to ""
+[2.192s] -- Up-to-date: /home/ats/rv2/install/auto_aim_interfaces/lib/libauto_aim_interfaces__rosidl_typesupport_introspection_c.so
+[2.192s] -- Up-to-date: /home/ats/rv2/install/auto_aim_interfaces/lib/libauto_aim_interfaces__rosidl_typesupport_c.so
+[2.192s] -- Installing: /home/ats/rv2/install/auto_aim_interfaces/lib/libauto_aim_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[2.192s] -- Set runtime path of "/home/ats/rv2/install/auto_aim_interfaces/lib/libauto_aim_interfaces__rosidl_typesupport_fastrtps_cpp.so" to ""
+[2.192s] -- Installing: /home/ats/rv2/install/auto_aim_interfaces/lib/libauto_aim_interfaces__rosidl_typesupport_introspection_cpp.so
+[2.192s] -- Set runtime path of "/home/ats/rv2/install/auto_aim_interfaces/lib/libauto_aim_interfaces__rosidl_typesupport_introspection_cpp.so" to ""
+[2.192s] -- Installing: /home/ats/rv2/install/auto_aim_interfaces/lib/libauto_aim_interfaces__rosidl_typesupport_cpp.so
+[2.192s] -- Set runtime path of "/home/ats/rv2/install/auto_aim_interfaces/lib/libauto_aim_interfaces__rosidl_typesupport_cpp.so" to ""
+[2.218s] Listing '/home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces'...
+[2.218s] Listing '/home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages/auto_aim_interfaces/msg'...
+[2.222s] -- Installing: /home/ats/rv2/install/auto_aim_interfaces/lib/libauto_aim_interfaces__rosidl_generator_py.so
+[2.222s] -- Set runtime path of "/home/ats/rv2/install/auto_aim_interfaces/lib/libauto_aim_interfaces__rosidl_generator_py.so" to ""
+[2.223s] -- Up-to-date: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/cmake/export_auto_aim_interfaces__rosidl_generator_cExport.cmake
+[2.223s] -- Up-to-date: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/cmake/export_auto_aim_interfaces__rosidl_generator_cExport-noconfig.cmake
+[2.223s] -- Up-to-date: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/cmake/export_auto_aim_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+[2.223s] -- Up-to-date: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/cmake/export_auto_aim_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[2.223s] -- Up-to-date: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/cmake/auto_aim_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[2.223s] -- Up-to-date: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/cmake/auto_aim_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[2.223s] -- Up-to-date: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/cmake/auto_aim_interfaces__rosidl_typesupport_cExport.cmake
+[2.223s] -- Up-to-date: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/cmake/auto_aim_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[2.223s] -- Up-to-date: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/cmake/export_auto_aim_interfaces__rosidl_generator_cppExport.cmake
+[2.223s] -- Up-to-date: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/cmake/export_auto_aim_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+[2.223s] -- Up-to-date: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/cmake/export_auto_aim_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[2.224s] -- Up-to-date: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/cmake/auto_aim_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[2.224s] -- Up-to-date: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/cmake/auto_aim_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[2.224s] -- Up-to-date: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/cmake/auto_aim_interfaces__rosidl_typesupport_cppExport.cmake
+[2.224s] -- Up-to-date: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/cmake/auto_aim_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[2.224s] -- Up-to-date: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/cmake/export_auto_aim_interfaces__rosidl_generator_pyExport.cmake
+[2.224s] -- Up-to-date: /home/ats/rv2/install/auto_aim_interfaces/share/auto_aim_interfaces/cmake/export_auto_aim_interfaces__rosidl_generator_pyExport-noconfig.cmake
+[2.227s] Invoked command in '/home/ats/rv2/build/auto_aim_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ats/rv2/build/auto_aim_interfaces

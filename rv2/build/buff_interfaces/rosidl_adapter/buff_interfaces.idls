@@ -1,0 +1,7 @@
+/home/ats/rv2/build/buff_interfaces/rosidl_adapter/buff_interfaces:msg/Blade.idl
+/home/ats/rv2/build/buff_interfaces/rosidl_adapter/buff_interfaces:msg/BladeArray.idl
+/home/ats/rv2/build/buff_interfaces/rosidl_adapter/buff_interfaces:msg/DebugBlade.idl
+/home/ats/rv2/build/buff_interfaces/rosidl_adapter/buff_interfaces:msg/DebugBladeArray.idl
+/home/ats/rv2/build/buff_interfaces/rosidl_adapter/buff_interfaces:msg/Rune.idl
+/home/ats/rv2/build/buff_interfaces/rosidl_adapter/buff_interfaces:msg/RuneInfo.idl
+/home/ats/rv2/build/buff_interfaces/rosidl_adapter/buff_interfaces:msg/TimeInfo.idl

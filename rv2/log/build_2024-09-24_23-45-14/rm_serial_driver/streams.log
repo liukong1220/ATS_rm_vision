@@ -1,0 +1,72 @@
+[0.011s] Invoking command in '/home/ats/rv2/build/rm_serial_driver': AMENT_PREFIX_PATH=/home/ats/rv2/install/buff_interfaces:/home/ats/rv2/install/auto_aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ats/rv2/install/buff_interfaces:/home/ats/rv2/install/auto_aim_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/ats/rv2/install/buff_interfaces/lib:/home/ats/rv2/install/auto_aim_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ats/rv2/install/buff_interfaces/local/lib/python3.10/dist-packages:/home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/ats/rv2/src/rm_serial_driver -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ats/rv2/install/rm_serial_driver
+[0.019s] -- Found ament_cmake_auto: 1.3.10 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+[0.127s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.241s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.245s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.251s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.262s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.278s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.317s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.320s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.407s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.485s] -- Found asio_cmake_module: 1.2.0 (/opt/ros/humble/share/asio_cmake_module/cmake)
+[0.486s] -- Found ASIO: /usr/include  
+[0.630s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[0.631s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[0.631s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[0.743s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.782s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.782s] -- Configured cppcheck include dirs: /home/ats/rv2/src/rm_serial_driver/include
+[0.782s] -- Configured cppcheck exclude dirs and/or files: 
+[0.785s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[0.785s] -- Configured cpplint exclude dirs and/or files: 
+[0.786s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.787s] -- Added test 'lint_cmake' to check CMake code style
+[0.788s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.789s] -- Added test 'xmllint' to check XML markup files
+[0.792s] -- Added test 'clang_format' to check C / C++ code style
+[0.796s] -- Configuring done
+[0.827s] -- Generating done
+[0.829s] -- Build files have been written to: /home/ats/rv2/build/rm_serial_driver
+[0.842s] Invoked command in '/home/ats/rv2/build/rm_serial_driver' returned '0': AMENT_PREFIX_PATH=/home/ats/rv2/install/buff_interfaces:/home/ats/rv2/install/auto_aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ats/rv2/install/buff_interfaces:/home/ats/rv2/install/auto_aim_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/ats/rv2/install/buff_interfaces/lib:/home/ats/rv2/install/auto_aim_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ats/rv2/install/buff_interfaces/local/lib/python3.10/dist-packages:/home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/ats/rv2/src/rm_serial_driver -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ats/rv2/install/rm_serial_driver
+[0.843s] Invoking command in '/home/ats/rv2/build/rm_serial_driver': AMENT_PREFIX_PATH=/home/ats/rv2/install/buff_interfaces:/home/ats/rv2/install/auto_aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ats/rv2/install/buff_interfaces:/home/ats/rv2/install/auto_aim_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/ats/rv2/install/buff_interfaces/lib:/home/ats/rv2/install/auto_aim_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ats/rv2/install/buff_interfaces/local/lib/python3.10/dist-packages:/home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/ats/rv2/build/rm_serial_driver -- -j32 -l32
+[0.900s] [ 20%] [32mBuilding CXX object CMakeFiles/rm_serial_driver_node.dir/rclcpp_components/node_main_rm_serial_driver_node.cpp.o[0m
+[0.902s] [ 60%] [32mBuilding CXX object CMakeFiles/rm_serial_driver.dir/src/crc.cpp.o[0m
+[0.902s] [ 60%] [32mBuilding CXX object CMakeFiles/rm_serial_driver.dir/src/rm_serial_driver.cpp.o[0m
+[2.972s] [ 80%] [32m[1mLinking CXX executable rm_serial_driver_node[0m
+[3.049s] [ 80%] Built target rm_serial_driver_node
+[16.508s] [100%] [32m[1mLinking CXX shared library librm_serial_driver.so[0m
+[17.544s] [100%] Built target rm_serial_driver
+[17.551s] Invoked command in '/home/ats/rv2/build/rm_serial_driver' returned '0': AMENT_PREFIX_PATH=/home/ats/rv2/install/buff_interfaces:/home/ats/rv2/install/auto_aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ats/rv2/install/buff_interfaces:/home/ats/rv2/install/auto_aim_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/ats/rv2/install/buff_interfaces/lib:/home/ats/rv2/install/auto_aim_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ats/rv2/install/buff_interfaces/local/lib/python3.10/dist-packages:/home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/ats/rv2/build/rm_serial_driver -- -j32 -l32
+[17.573s] Invoking command in '/home/ats/rv2/build/rm_serial_driver': AMENT_PREFIX_PATH=/home/ats/rv2/install/buff_interfaces:/home/ats/rv2/install/auto_aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ats/rv2/install/buff_interfaces:/home/ats/rv2/install/auto_aim_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/ats/rv2/install/buff_interfaces/lib:/home/ats/rv2/install/auto_aim_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ats/rv2/install/buff_interfaces/local/lib/python3.10/dist-packages:/home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/ats/rv2/build/rm_serial_driver
+[17.577s] -- Install configuration: ""
+[17.577s] -- Execute custom install script
+[17.578s] -- Symlinking: /home/ats/rv2/install/rm_serial_driver/lib/rm_serial_driver/rm_serial_driver_node
+[17.583s] -- Symlinking: /home/ats/rv2/install/rm_serial_driver/include/rm_serial_driver/crc.hpp
+[17.589s] -- Symlinking: /home/ats/rv2/install/rm_serial_driver/include/rm_serial_driver/packet.hpp
+[17.595s] -- Symlinking: /home/ats/rv2/install/rm_serial_driver/include/rm_serial_driver/rm_serial_driver.hpp
+[17.600s] -- Symlinking: /home/ats/rv2/install/rm_serial_driver/share/rm_serial_driver/environment/library_path.sh
+[17.605s] -- Symlinking: /home/ats/rv2/install/rm_serial_driver/share/rm_serial_driver/environment/library_path.dsv
+[17.610s] -- Symlinking: /home/ats/rv2/install/rm_serial_driver/lib/librm_serial_driver.so
+[17.615s] -- Symlinking: /home/ats/rv2/install/rm_serial_driver/share/rm_serial_driver/config/serial_driver.yaml
+[17.620s] -- Symlinking: /home/ats/rv2/install/rm_serial_driver/share/rm_serial_driver/launch/serial_driver.launch.py
+[17.625s] -- Symlinking: /home/ats/rv2/install/rm_serial_driver/share/ament_index/resource_index/package_run_dependencies/rm_serial_driver
+[17.630s] -- Symlinking: /home/ats/rv2/install/rm_serial_driver/share/ament_index/resource_index/parent_prefix_path/rm_serial_driver
+[17.635s] -- Symlinking: /home/ats/rv2/install/rm_serial_driver/share/rm_serial_driver/environment/ament_prefix_path.sh
+[17.640s] -- Symlinking: /home/ats/rv2/install/rm_serial_driver/share/rm_serial_driver/environment/ament_prefix_path.dsv
+[17.645s] -- Symlinking: /home/ats/rv2/install/rm_serial_driver/share/rm_serial_driver/environment/path.sh
+[17.650s] -- Symlinking: /home/ats/rv2/install/rm_serial_driver/share/rm_serial_driver/environment/path.dsv
+[17.655s] -- Symlinking: /home/ats/rv2/install/rm_serial_driver/share/rm_serial_driver/local_setup.bash
+[17.660s] -- Symlinking: /home/ats/rv2/install/rm_serial_driver/share/rm_serial_driver/local_setup.sh
+[17.665s] -- Symlinking: /home/ats/rv2/install/rm_serial_driver/share/rm_serial_driver/local_setup.zsh
+[17.670s] -- Symlinking: /home/ats/rv2/install/rm_serial_driver/share/rm_serial_driver/local_setup.dsv
+[17.675s] -- Symlinking: /home/ats/rv2/install/rm_serial_driver/share/rm_serial_driver/package.dsv
+[17.680s] -- Symlinking: /home/ats/rv2/install/rm_serial_driver/share/ament_index/resource_index/packages/rm_serial_driver
+[17.685s] -- Symlinking: /home/ats/rv2/install/rm_serial_driver/share/ament_index/resource_index/rclcpp_components/rm_serial_driver
+[17.690s] -- Symlinking: /home/ats/rv2/install/rm_serial_driver/share/rm_serial_driver/cmake/ament_cmake_export_dependencies-extras.cmake
+[17.695s] -- Symlinking: /home/ats/rv2/install/rm_serial_driver/share/rm_serial_driver/cmake/ament_cmake_export_include_directories-extras.cmake
+[17.700s] -- Symlinking: /home/ats/rv2/install/rm_serial_driver/share/rm_serial_driver/cmake/ament_cmake_export_libraries-extras.cmake
+[17.705s] -- Symlinking: /home/ats/rv2/install/rm_serial_driver/share/rm_serial_driver/cmake/rm_serial_driverConfig.cmake
+[17.710s] -- Symlinking: /home/ats/rv2/install/rm_serial_driver/share/rm_serial_driver/cmake/rm_serial_driverConfig-version.cmake
+[17.715s] -- Symlinking: /home/ats/rv2/install/rm_serial_driver/share/rm_serial_driver/package.xml
+[17.721s] Invoked command in '/home/ats/rv2/build/rm_serial_driver' returned '0': AMENT_PREFIX_PATH=/home/ats/rv2/install/buff_interfaces:/home/ats/rv2/install/auto_aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ats/rv2/install/buff_interfaces:/home/ats/rv2/install/auto_aim_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/ats/rv2/install/buff_interfaces/lib:/home/ats/rv2/install/auto_aim_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ats/rv2/install/buff_interfaces/local/lib/python3.10/dist-packages:/home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/ats/rv2/build/rm_serial_driver

@@ -1,0 +1,1 @@
+/home/ats/rv2/build/armor_detector/ament_cmake_environment_hooks/local_setup.bash

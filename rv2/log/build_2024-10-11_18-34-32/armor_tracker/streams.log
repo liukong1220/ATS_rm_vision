@@ -1,0 +1,40 @@
+[0.022s] Invoking command in '/home/ats/rv2/build/armor_tracker': AMENT_PREFIX_PATH=/home/ats/rv2/install/auto_aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ats/rv2/install/auto_aim_interfaces:/home/ats/ws_livox/install/livox_ros_driver2:/opt/ros/humble LD_LIBRARY_PATH=/home/ats/rv2/install/auto_aim_interfaces/lib:/home/ats/ws_livox/install/livox_ros_driver2/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/opt/openvdb_vendor/lib:/opt/ros/humble/lib:/opt/MVS/lib/64:/opt/MVS/lib/32:/opt/MVS/lib/64:/opt/MVS/lib/32:/opt/MVS/lib/64:/opt/MVS/lib/32 PYTHONPATH=/home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/ats/rv2/build/armor_tracker -- -j32 -l32
+[0.098s] [ 16%] [32mBuilding CXX object CMakeFiles/armor_tracker_node.dir/rclcpp_components/node_main_armor_tracker_node.cpp.o[0m
+[0.106s] [ 33%] [32mBuilding CXX object CMakeFiles/armor_tracker.dir/src/extended_kalman_filter.cpp.o[0m
+[0.107s] [ 50%] [32mBuilding CXX object CMakeFiles/armor_tracker.dir/src/tracker.cpp.o[0m
+[0.110s] [ 66%] [32mBuilding CXX object CMakeFiles/armor_tracker.dir/src/tracker_node.cpp.o[0m
+[3.443s] [ 83%] [32m[1mLinking CXX executable armor_tracker_node[0m
+[3.617s] [ 83%] Built target armor_tracker_node
+[10.865s] [100%] [32m[1mLinking CXX shared library libarmor_tracker.so[0m
+[11.455s] [100%] Built target armor_tracker
+[11.469s] Invoked command in '/home/ats/rv2/build/armor_tracker' returned '0': AMENT_PREFIX_PATH=/home/ats/rv2/install/auto_aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ats/rv2/install/auto_aim_interfaces:/home/ats/ws_livox/install/livox_ros_driver2:/opt/ros/humble LD_LIBRARY_PATH=/home/ats/rv2/install/auto_aim_interfaces/lib:/home/ats/ws_livox/install/livox_ros_driver2/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/opt/openvdb_vendor/lib:/opt/ros/humble/lib:/opt/MVS/lib/64:/opt/MVS/lib/32:/opt/MVS/lib/64:/opt/MVS/lib/32:/opt/MVS/lib/64:/opt/MVS/lib/32 PYTHONPATH=/home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/ats/rv2/build/armor_tracker -- -j32 -l32
+[11.502s] Invoking command in '/home/ats/rv2/build/armor_tracker': AMENT_PREFIX_PATH=/home/ats/rv2/install/auto_aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ats/rv2/install/auto_aim_interfaces:/home/ats/ws_livox/install/livox_ros_driver2:/opt/ros/humble LD_LIBRARY_PATH=/home/ats/rv2/install/auto_aim_interfaces/lib:/home/ats/ws_livox/install/livox_ros_driver2/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/opt/openvdb_vendor/lib:/opt/ros/humble/lib:/opt/MVS/lib/64:/opt/MVS/lib/32:/opt/MVS/lib/64:/opt/MVS/lib/32:/opt/MVS/lib/64:/opt/MVS/lib/32 PYTHONPATH=/home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/ats/rv2/build/armor_tracker
+[11.510s] -- Install configuration: ""
+[11.510s] -- Execute custom install script
+[11.511s] -- Up-to-date symlink: /home/ats/rv2/install/armor_tracker/lib/armor_tracker/armor_tracker_node
+[11.512s] -- Up-to-date symlink: /home/ats/rv2/install/armor_tracker/include/armor_tracker/extended_kalman_filter.hpp
+[11.512s] -- Up-to-date symlink: /home/ats/rv2/install/armor_tracker/include/armor_tracker/tracker.hpp
+[11.512s] -- Up-to-date symlink: /home/ats/rv2/install/armor_tracker/include/armor_tracker/tracker_node.hpp
+[11.512s] -- Up-to-date symlink: /home/ats/rv2/install/armor_tracker/share/armor_tracker/environment/library_path.sh
+[11.513s] -- Up-to-date symlink: /home/ats/rv2/install/armor_tracker/share/armor_tracker/environment/library_path.dsv
+[11.513s] -- Up-to-date symlink: /home/ats/rv2/install/armor_tracker/lib/libarmor_tracker.so
+[11.514s] -- Up-to-date symlink: /home/ats/rv2/install/armor_tracker/share/ament_index/resource_index/package_run_dependencies/armor_tracker
+[11.514s] -- Up-to-date symlink: /home/ats/rv2/install/armor_tracker/share/ament_index/resource_index/parent_prefix_path/armor_tracker
+[11.514s] -- Up-to-date symlink: /home/ats/rv2/install/armor_tracker/share/armor_tracker/environment/ament_prefix_path.sh
+[11.515s] -- Up-to-date symlink: /home/ats/rv2/install/armor_tracker/share/armor_tracker/environment/ament_prefix_path.dsv
+[11.515s] -- Up-to-date symlink: /home/ats/rv2/install/armor_tracker/share/armor_tracker/environment/path.sh
+[11.515s] -- Up-to-date symlink: /home/ats/rv2/install/armor_tracker/share/armor_tracker/environment/path.dsv
+[11.516s] -- Up-to-date symlink: /home/ats/rv2/install/armor_tracker/share/armor_tracker/local_setup.bash
+[11.516s] -- Up-to-date symlink: /home/ats/rv2/install/armor_tracker/share/armor_tracker/local_setup.sh
+[11.516s] -- Up-to-date symlink: /home/ats/rv2/install/armor_tracker/share/armor_tracker/local_setup.zsh
+[11.516s] -- Up-to-date symlink: /home/ats/rv2/install/armor_tracker/share/armor_tracker/local_setup.dsv
+[11.517s] -- Symlinking: /home/ats/rv2/install/armor_tracker/share/armor_tracker/package.dsv
+[11.525s] -- Up-to-date symlink: /home/ats/rv2/install/armor_tracker/share/ament_index/resource_index/packages/armor_tracker
+[11.525s] -- Up-to-date symlink: /home/ats/rv2/install/armor_tracker/share/ament_index/resource_index/rclcpp_components/armor_tracker
+[11.525s] -- Up-to-date symlink: /home/ats/rv2/install/armor_tracker/share/armor_tracker/cmake/ament_cmake_export_dependencies-extras.cmake
+[11.525s] -- Up-to-date symlink: /home/ats/rv2/install/armor_tracker/share/armor_tracker/cmake/ament_cmake_export_include_directories-extras.cmake
+[11.526s] -- Up-to-date symlink: /home/ats/rv2/install/armor_tracker/share/armor_tracker/cmake/ament_cmake_export_libraries-extras.cmake
+[11.526s] -- Up-to-date symlink: /home/ats/rv2/install/armor_tracker/share/armor_tracker/cmake/armor_trackerConfig.cmake
+[11.526s] -- Up-to-date symlink: /home/ats/rv2/install/armor_tracker/share/armor_tracker/cmake/armor_trackerConfig-version.cmake
+[11.526s] -- Up-to-date symlink: /home/ats/rv2/install/armor_tracker/share/armor_tracker/package.xml
+[11.528s] Invoked command in '/home/ats/rv2/build/armor_tracker' returned '0': AMENT_PREFIX_PATH=/home/ats/rv2/install/auto_aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ats/rv2/install/auto_aim_interfaces:/home/ats/ws_livox/install/livox_ros_driver2:/opt/ros/humble LD_LIBRARY_PATH=/home/ats/rv2/install/auto_aim_interfaces/lib:/home/ats/ws_livox/install/livox_ros_driver2/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/opt/openvdb_vendor/lib:/opt/ros/humble/lib:/opt/MVS/lib/64:/opt/MVS/lib/32:/opt/MVS/lib/64:/opt/MVS/lib/32:/opt/MVS/lib/64:/opt/MVS/lib/32 PYTHONPATH=/home/ats/rv2/install/auto_aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/ats/rv2/build/armor_tracker

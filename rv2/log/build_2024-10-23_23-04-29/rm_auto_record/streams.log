@@ -1,0 +1,34 @@
+[0.031s] Invoking command in '/home/ats/rv2/build/rm_auto_record': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ats/rv2/build/rm_auto_record -- -j32 -l32
+[0.130s] [ 50%] Built target rm_auto_record_node
+[0.131s] [100%] Built target rm_auto_record
+[0.153s] Invoked command in '/home/ats/rv2/build/rm_auto_record' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ats/rv2/build/rm_auto_record -- -j32 -l32
+[0.225s] Invoking command in '/home/ats/rv2/build/rm_auto_record': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ats/rv2/build/rm_auto_record
+[0.239s] -- Install configuration: ""
+[0.240s] -- Execute custom install script
+[0.242s] -- Up-to-date symlink: /home/ats/rv2/install/rm_auto_record/lib/rm_auto_record/rm_auto_record_node
+[0.243s] -- Up-to-date symlink: /home/ats/rv2/install/rm_auto_record/include/rm_auto_record/record_node.hpp
+[0.244s] -- Up-to-date symlink: /home/ats/rv2/install/rm_auto_record/share/rm_auto_record/environment/library_path.sh
+[0.244s] -- Up-to-date symlink: /home/ats/rv2/install/rm_auto_record/share/rm_auto_record/environment/library_path.dsv
+[0.245s] -- Up-to-date symlink: /home/ats/rv2/install/rm_auto_record/lib/librm_auto_record.so
+[0.246s] -- Up-to-date symlink: /home/ats/rv2/install/rm_auto_record/share/rm_auto_record/config/node_params.yaml
+[0.247s] -- Up-to-date symlink: /home/ats/rv2/install/rm_auto_record/share/rm_auto_record/launch/auto_record.launch.py
+[0.248s] -- Up-to-date symlink: /home/ats/rv2/install/rm_auto_record/share/ament_index/resource_index/package_run_dependencies/rm_auto_record
+[0.249s] -- Up-to-date symlink: /home/ats/rv2/install/rm_auto_record/share/ament_index/resource_index/parent_prefix_path/rm_auto_record
+[0.250s] -- Up-to-date symlink: /home/ats/rv2/install/rm_auto_record/share/rm_auto_record/environment/ament_prefix_path.sh
+[0.252s] -- Up-to-date symlink: /home/ats/rv2/install/rm_auto_record/share/rm_auto_record/environment/ament_prefix_path.dsv
+[0.252s] -- Up-to-date symlink: /home/ats/rv2/install/rm_auto_record/share/rm_auto_record/environment/path.sh
+[0.252s] -- Up-to-date symlink: /home/ats/rv2/install/rm_auto_record/share/rm_auto_record/environment/path.dsv
+[0.253s] -- Up-to-date symlink: /home/ats/rv2/install/rm_auto_record/share/rm_auto_record/local_setup.bash
+[0.253s] -- Up-to-date symlink: /home/ats/rv2/install/rm_auto_record/share/rm_auto_record/local_setup.sh
+[0.253s] -- Up-to-date symlink: /home/ats/rv2/install/rm_auto_record/share/rm_auto_record/local_setup.zsh
+[0.253s] -- Up-to-date symlink: /home/ats/rv2/install/rm_auto_record/share/rm_auto_record/local_setup.dsv
+[0.253s] -- Symlinking: /home/ats/rv2/install/rm_auto_record/share/rm_auto_record/package.dsv
+[0.271s] -- Up-to-date symlink: /home/ats/rv2/install/rm_auto_record/share/ament_index/resource_index/packages/rm_auto_record
+[0.271s] -- Up-to-date symlink: /home/ats/rv2/install/rm_auto_record/share/ament_index/resource_index/rclcpp_components/rm_auto_record
+[0.271s] -- Up-to-date symlink: /home/ats/rv2/install/rm_auto_record/share/rm_auto_record/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.271s] -- Up-to-date symlink: /home/ats/rv2/install/rm_auto_record/share/rm_auto_record/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.272s] -- Up-to-date symlink: /home/ats/rv2/install/rm_auto_record/share/rm_auto_record/cmake/ament_cmake_export_libraries-extras.cmake
+[0.272s] -- Up-to-date symlink: /home/ats/rv2/install/rm_auto_record/share/rm_auto_record/cmake/rm_auto_recordConfig.cmake
+[0.272s] -- Up-to-date symlink: /home/ats/rv2/install/rm_auto_record/share/rm_auto_record/cmake/rm_auto_recordConfig-version.cmake
+[0.273s] -- Up-to-date symlink: /home/ats/rv2/install/rm_auto_record/share/rm_auto_record/package.xml
+[0.303s] Invoked command in '/home/ats/rv2/build/rm_auto_record' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ats/rv2/build/rm_auto_record

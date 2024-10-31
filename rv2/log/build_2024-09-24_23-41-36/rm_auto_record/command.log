@@ -1,0 +1,3 @@
+Invoking command in '/home/ats/rv2/build/rm_auto_record': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ats/rv2/src/rm_auto_record -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ats/rv2/install/rm_auto_record
+Invoked command in '/home/ats/rv2/build/rm_auto_record' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ats/rv2/src/rm_auto_record -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ats/rv2/install/rm_auto_record
+Invoking command in '/home/ats/rv2/build/rm_auto_record': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ats/rv2/build/rm_auto_record -- -j32 -l32
