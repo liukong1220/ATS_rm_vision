@@ -1,9 +1,0 @@
-/home/ats/rv2/build/rm_buff/CMakeFiles/uninstall.dir
-/home/ats/rv2/build/rm_buff/CMakeFiles/rm_buff_uninstall.dir
-/home/ats/rv2/build/rm_buff/CMakeFiles/test.dir
-/home/ats/rv2/build/rm_buff/CMakeFiles/edit_cache.dir
-/home/ats/rv2/build/rm_buff/CMakeFiles/rebuild_cache.dir
-/home/ats/rv2/build/rm_buff/CMakeFiles/list_install_components.dir
-/home/ats/rv2/build/rm_buff/CMakeFiles/install.dir
-/home/ats/rv2/build/rm_buff/CMakeFiles/install/local.dir
-/home/ats/rv2/build/rm_buff/CMakeFiles/install/strip.dir

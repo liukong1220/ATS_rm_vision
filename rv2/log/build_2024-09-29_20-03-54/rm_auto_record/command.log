@@ -1,4 +1,0 @@
-Invoking command in '/home/ats/rv2/build/rm_auto_record': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ats/rv2/build/rm_auto_record -- -j32 -l32
-Invoked command in '/home/ats/rv2/build/rm_auto_record' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ats/rv2/build/rm_auto_record -- -j32 -l32
-Invoking command in '/home/ats/rv2/build/rm_auto_record': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ats/rv2/build/rm_auto_record
-Invoked command in '/home/ats/rv2/build/rm_auto_record' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ats/rv2/build/rm_auto_record

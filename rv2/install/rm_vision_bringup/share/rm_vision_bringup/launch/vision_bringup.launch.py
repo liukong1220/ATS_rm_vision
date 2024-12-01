@@ -1,1 +1,0 @@
-/home/ats/rv2/src/rm_vision/rm_vision_bringup/launch/vision_bringup.launch.py

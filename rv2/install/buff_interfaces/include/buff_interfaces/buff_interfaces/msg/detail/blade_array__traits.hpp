@@ -1,1 +1,0 @@
-/home/ats/rv2/build/buff_interfaces/rosidl_generator_cpp/buff_interfaces/msg/detail/blade_array__traits.hpp

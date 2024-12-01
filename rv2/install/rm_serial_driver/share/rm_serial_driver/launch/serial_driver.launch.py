@@ -1,1 +1,0 @@
-/home/ats/rv2/src/rm_serial_driver/launch/serial_driver.launch.py

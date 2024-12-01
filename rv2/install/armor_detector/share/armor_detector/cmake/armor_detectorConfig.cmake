@@ -1,1 +1,0 @@
-/home/ats/rv2/build/armor_detector/ament_cmake_core/armor_detectorConfig.cmake

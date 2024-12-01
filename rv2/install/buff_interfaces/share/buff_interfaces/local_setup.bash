@@ -1,1 +1,0 @@
-/home/ats/rv2/build/buff_interfaces/ament_cmake_environment_hooks/local_setup.bash
